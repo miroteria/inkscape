@@ -135,13 +135,10 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer -BACKGROUND"
-     transform="translate(-45.284149,-54.157822)"><rect
-       style="opacity:0.803665;fill:#ffffff;fill-opacity:1;stroke:#522807;stroke-width:0;stroke-linecap:square;stroke-miterlimit:1000;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(-45.284149,-54.157822)"><path
        id="rect1111"
-       width="1400"
-       height="850"
-       x="45.284149"
-       y="54.157822" /><path
+       style="opacity:1;fill:#ffffff;stroke:#522807;stroke-width:0;stroke-linecap:square;stroke-miterlimit:1000"
+       d="M 45.284149,54.157822 H 1445.2841 V 904.15782 H 45.284149 Z" /><path
        id="rect1110"
        style="opacity:0.803665;fill:#8a278a;fill-opacity:1;stroke:#522807;stroke-width:0;stroke-linecap:square;stroke-miterlimit:1000"
        d="M 165.0683,196.59771 H 1319.0234 V 765.69597 H 165.0683 Z" /><path
