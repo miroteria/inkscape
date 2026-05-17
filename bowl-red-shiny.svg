@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="750"
-   height="620"
-   viewBox="0 0 750 620.00002"
+   width="756.97913"
+   height="628.34161"
+   viewBox="0 0 756.97913 628.34163"
    version="1.1"
    id="svg1"
    sodipodi:docname="bowl-red-shiny.svg"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.67615741"
-     inkscape:cx="419.28107"
-     inkscape:cy="299.48648"
+     inkscape:zoom="0.95623098"
+     inkscape:cx="449.68215"
+     inkscape:cy="311.1173"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="-8"
@@ -66,9 +66,14 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(1.8813345,3.9728794)">
+    <path
+       id="rect1"
+       style="opacity:1;fill:#0f3b49;fill-opacity:1;stroke-width:0.959543"
+       d="M -1.8813345,-3.9728794 H 755.09779 V 624.36873 H -1.8813345 Z" />
     <circle
-       style="fill:url(#radialGradient12);stroke-width:2.88235;fill-opacity:1"
+       style="fill:url(#radialGradient12);fill-opacity:1;stroke-width:2.88235"
        id="path1"
        cx="375"
        cy="310"
